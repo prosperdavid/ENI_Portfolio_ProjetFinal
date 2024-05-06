@@ -1,0 +1,35 @@
+H1{
+    text-align: right;
+    margin: 2% 6% 20% 2%;
+    padding: -5% 6% 5% 6%;
+} 
+
+
+Logo{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+Logo{
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+    float: right;
+}
+
+nav{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h2{
+    margin:-33% 5% 0% 13%;
+    padding:-15% 0% 6% 5%;
+}
+p{
+    text-align: center;
+    ruby-span: color blue;
+}
+
+
